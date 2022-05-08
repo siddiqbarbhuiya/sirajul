@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sirajul/static/css/main.030305f6.css",
+    "main.js": "/sirajul/static/js/main.a4189cad.js",
+    "index.html": "/sirajul/index.html",
+    "main.030305f6.css.map": "/sirajul/static/css/main.030305f6.css.map",
+    "main.a4189cad.js.map": "/sirajul/static/js/main.a4189cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030305f6.css",
+    "static/js/main.a4189cad.js"
+  ]
+}
